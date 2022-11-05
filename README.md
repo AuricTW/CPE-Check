@@ -1,3 +1,3 @@
-# CPE-Check筆記
+# CPE-Check準備筆記
 
 ## 函式庫
